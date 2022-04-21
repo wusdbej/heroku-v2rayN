@@ -1,0 +1,30 @@
+{
+  "name": "wh",
+  "description": "we",
+  "keywords": [
+    "sd"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "minipvmessorvless",
+      "value": "vmess",
+      "required": true
+    },
+    "UUID": {
+      "description": "uID",
+      "value": "",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocketlj",
+      "value": "/ray",
+      "required": true
+    }
+  },
+  "website": "https://github.com/wusdbej/heroku-v2rayN",
+  "repository": "https://github.com/wusdbej/new",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
